@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Zhen Zhao-Personal Website "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Zhen Zhao"
+  avatar           : "images/zhenzhao.png"
+  bio              : "Hong Kong Polytechnic University"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=CWHd9wQAAAAJ&hl=zh-CN&inst=10806615469772578445"
+  email            : "zoezhen.zhao@connect.polyu.hk"
+  researchgate     : "https://www.researchgate.net/profile/Zhen-Zhao-61?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
