@@ -15,8 +15,8 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD student from the School of Design at The
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 Our paper has been accepted at 11th Conferences of the International Association of Societies of Design Research (IASDR) in Taiwan.
+- *2025.10*: &nbsp;🎉🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore. 
 
 # 📝 Publications 
 
