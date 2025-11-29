@@ -28,13 +28,23 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 - *2025.10*: &nbsp;🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore. 
 
 # 📝 Publications 
-
+<!-- paper 1 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">IASDR 2025</div><img src='images/iasdr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Zhen Zhao; Qian Mao; Yunhe Du; Yu Hin Brian Lee; Wai Man Raymond Sit; Hailiang Wang*
+Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*
+</div>
+</div>
+<!-- paper 2 -->
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">HIJ 2025</div><img src='images/hij.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
+
 </div>
 </div>
 
