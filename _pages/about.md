@@ -35,10 +35,6 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD student from the School of Design at The
 [An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 Zhen Zhao; Qian Mao; Yunhe Du; Yu Hin Brian Lee; Wai Man Raymond Sit; Hailiang Wang*
-
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
