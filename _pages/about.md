@@ -23,6 +23,10 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD student from the School of Design at The
 - *2025.10*: &nbsp;🎉 Our paper has been accepted at 11th Conferences of the International Association of Societies of Design Research (IASDR) in Taiwan.
 - *2025.10*: &nbsp;🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore. 
 
+# 💻 Working Experiences
+- *2020.08 - 2020.12*, [Lecturer], Sichuan University of Media and Communications, Sichuan, China.
+- *2020.08 - 2020.12*, [Assistant Designer], Tencent, Tianjin, China.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2025</div><img src='images/iasdr.png' alt="sym" width="70%"></div></div>
@@ -47,6 +51,3 @@ Zhen Zhao; Qian Mao; Yunhe Du; Yu Hin Brian Lee; Wai Man Raymond Sit; Hailiang W
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
