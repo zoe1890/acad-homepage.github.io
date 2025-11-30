@@ -48,6 +48,16 @@ Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
 </div>
 </div>
 
+<!-- paper 3 -->
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">HIJ 2025</div><img src='images/healthcomm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Understanding Embodied Experiences in a Traditional Chinese Medicine-based Health Promotion Program: Insights from In-depth Interviews and Participant Observations](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
