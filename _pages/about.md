@@ -37,10 +37,11 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 [An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities]
 
 Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*<br>
-2025.10
+🗓️ 2025.10
 
 </div>
 </div>
+
 <!-- paper 2 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Informatics</div><img src='images/hij.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +49,7 @@ Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*<br>
 [Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://journals.sagepub.com/doi/full/10.1177/14604582251363546)
 
 Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*<br>
-2025.07
+🗓️ 2025.07
 
 </div>
 </div>
@@ -60,7 +61,7 @@ Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*<br>
 [Understanding Embodied Experiences in a Traditional Chinese Medicine-based Health Promotion Program: Insights from In-depth Interviews and Participant Observations](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490230)
 
 Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*<br>
-2025.06
+🗓️ 2025.06
 
 </div>
 </div>
@@ -72,7 +73,7 @@ Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*<br>
 [The Effects of Virtual Reality–Based Reminiscence Therapies for Older Adults With Cognitive Impairment: Systematic Review](https://www.jmir.org/2024/1/e53348/PDF.pdf)
 
 Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*<br>
-2024.11
+🗓️ 2024.11
 
 </div>
 </div>
@@ -84,7 +85,7 @@ Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*<br>
 [Overcoming Obstacles: Examining User Resistance to Home-Based Health Monitoring Systems Among Older Adults](https://www.researchgate.net/profile/Hailiang_Wang4/publication/381333614_Overcoming_Obstacles_Examining_User_Resistance_to_Home-based_Health_Monitoring_Systems_among_Older_Adults/links/6686c89c0a25e27fbc247bcc/Overcoming-Obstacles-Examining-User-Resistance-to-Home-based-Health-Monitoring-Systems-among-Older-Adults.pdf)
 
 Zhao, Z., Mao, Q., Chak, Y., Cheung, T., and Wang, H.L.*<br>
-2024.01
+🗓️ 2024.01
 
 </div>
 </div>
@@ -96,7 +97,7 @@ Zhao, Z., Mao, Q., Chak, Y., Cheung, T., and Wang, H.L.*<br>
 [A human-centred design strategy for self-training healthcare service among visually impaired persons](https://www.tandfonline.com/doi/abs/10.1080/14606925.2023.2225718)
 
 Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
-2023.09
+🗓️ 2023.09
 
 </div>
 </div>
@@ -108,13 +109,13 @@ Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 [Improving Self-management for Long COVID: Using Double Diamond Model to Design A mHealth App](https://journals.sagepub.com/doi/abs/10.1177/21695067231192582)
 
 Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
-2023.09
+🗓️ 2023.09
 
 </div>
 </div>
 
 
-# 💬 Research Experiences 
+# 🔍 Research Experiences 
 - *2025-2028*, Co-I: XR-based Embodied Affective-haptic Design in Emotional Engagement for Older Adults. PolyU, HK$ 500,000 
 - *2023-2025*, Key team member: Ecosystem design of sensoring technology-enabled mobility monitoring among persons with disabilities and chronic disease. Research Centre of Future (Caring) Mobility, PolyU, HK$ 300,000
 - *2023-2024*, Key team member: Design intelligence in smart homes for solitary seniors: a pilot study on an IoT-based, interactive indoor tracking system. TCL Corporate Research (Hong Kong) Co., Limited, HK$ 455,000
