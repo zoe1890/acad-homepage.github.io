@@ -25,9 +25,9 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 - *2018.08 - 2019.08*, [Assistant Designer], Tencent, Tianjin, China
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 Our paper has been accepted at 11th Conferences of the International Association of Societies of Design Research (IASDR) in Taiwan.
+- *2025.10*: &nbsp;🎉 Our paper has been accepted at 11th Conference of the International Association of Societies of Design Research (IASDR) in Taiwan.
 - *2025.10*: &nbsp;🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore.
-- *2025.08*: &nbsp;🎉 Our paper has been accepted by Health Informatic Journal.
+- *2025.09*: &nbsp;🎉 Our paper has been accepted at Cumulus 2025 in South Africa.
 
 # 📝 Selected Publications 
 <!-- paper 8 -->
